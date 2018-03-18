@@ -1,0 +1,1 @@
+include ':StudyCase4', ':app', ':base', ':instantapp'
